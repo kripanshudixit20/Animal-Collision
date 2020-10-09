@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ff231c8c7dc40d442b9f43b75740e0a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Animal0: {fileID: 4150574531909732767, guid: be4cd6e43f86a5348bbc5e75329217a3, type: 3}
+  - Animal1: {fileID: 7942489808764111982, guid: e7d6b3454a9c1ee44a4e8a3c9a944899, type: 3}
+  - Animal2: {fileID: 3344610252090184190, guid: 107f33eb063bbe845873da857a517e42, type: 3}
+  - Animal3: {fileID: 3220093990579427855, guid: d9627d07f1ec94b4495137532507a8f5, type: 3}
+  - Animal4: {fileID: 5393738126763433158, guid: 12ca200c92ca79b4f87902d0cbf51f7e, type: 3}
+  - Animal5: {fileID: 2768807687672456330, guid: 9ba8ac30a26e3ec4090b1cafbe3e4612, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
